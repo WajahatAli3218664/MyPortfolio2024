@@ -29,7 +29,7 @@ export default function Giaic() {
               <div className="mt-2 md:mx-6">
                 <div>
                   <p className="text-xl font-medium tracking-tight text-white">
-                    Hello!  I'm Wajahat Ali,
+                    Hello!  I am Wajahat Ali,
                   </p>
                   <p className="text-cyan-400 uppercase ">
                     Igniting Passion for Coding and Creativity

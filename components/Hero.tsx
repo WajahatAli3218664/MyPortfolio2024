@@ -21,8 +21,7 @@ export default function Hero() {
   });
 
   return (
-    <div >
-      
+    <div>
       <div className="w-full h-auto px-5 lg:px-12 py-10 ">
         <nav className="w-full h-10">
           <div className="w-full flex justify-between items-center relative h-16">
@@ -40,7 +39,7 @@ export default function Hero() {
           <div className="w-full lg:w-1/2">
             <h4 className="text-2xl md:text-2xl lg:text-2xl max-w-sm relative">
               <span className="text-lg text-gray-400 my-5 max-w-[600px]">
-                Hello there, I'm a{" "}
+                Hello there, I am a{" "}
               </span>
             </h4>
 
@@ -183,12 +182,6 @@ export default function Hero() {
             </div>
           </div>
 
-
-
-
-
-
-
           {/* Image and Bid Section */}
           <div className="relative w-full lg:w-1/2 lg:px-10 flex justify-center">
             {/* Art Background Image */}
@@ -207,29 +200,6 @@ export default function Hero() {
                 alt="Profile"
                 className="h-[100px] w-[200px] md:w-[100%] md:h-[70%] border-2 border-transparent hover:border-cyan-500 transition-all duration-300"
               />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
               {/* Bid Section overlaid on Profile Image */}
               <div className=" bottom-0 left-0 w-full bg-slate-900 bg-opacity-80 border-t border-violet-500 rounded-b-xl p-5">
