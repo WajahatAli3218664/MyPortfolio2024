@@ -19,7 +19,7 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
-              title="https://github.com/wajahatali"
+              title="https://github.com/WajahatAli3218664"
               href="https://twitter.com/wajahatali"
             >
               <div className="relative flex items-center justify-center sm:w-[470px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh] mb-10">

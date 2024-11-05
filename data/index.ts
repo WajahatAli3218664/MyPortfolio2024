@@ -178,8 +178,8 @@ import { FaTwitter, FaLinkedin, FaFacebook, FaInstagram, FaGithub } from "react-
 
 export const socialMedia = [
   { id: 1, icon: FaTwitter, link: "https://twitter.com/wajahatali" },
-  { id: 2, icon: FaLinkedin, link: "https://linkedin.com/in/wajahatali" },
-  { id: 3, icon: FaFacebook, link: "https://facebook.com/wajahatali" },
-  { id: 4, icon: FaInstagram, link: "https://instagram.com/wajahatali" },
-  { id: 5, icon: FaGithub, link: "https://github.com/wajahatali" },
+  { id: 2, icon: FaLinkedin, link: "https://www.linkedin.com/in/wajahat-ali-3189862b4" },
+  { id: 3, icon: FaFacebook, link: "https://www.facebook.com/Wajii10/" },
+  { id: 4, icon: FaInstagram, link: "https://www.instagram.com/_wajo41_" },
+  { id: 5, icon: FaGithub, link: "https://github.com/WajahatAli3218664" },
 ];

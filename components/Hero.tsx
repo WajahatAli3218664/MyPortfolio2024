@@ -82,7 +82,7 @@ export default function Hero() {
 
             <div className="mt-10 h-12 flex items-center justify-start gap-3">
               <a
-                href="https://github.com/yourusername" // Replace with your GitHub URL
+                href="https://github.com/WajahatAli3218664" // Replace with your GitHub URL
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-6 py-1.5 h-12 text-black bg-sky-400 rounded-lg hover:opacity-75 transition-all duration-300"
@@ -91,7 +91,7 @@ export default function Hero() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/yourusername" // Replace with your LinkedIn URL
+                href="https://linkedin.com/in/wajahat-ali-3189862b4" // Replace with your LinkedIn URL
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-1.5 text-white rounded-lg hover:opacity-75 transition-all duration-300"
