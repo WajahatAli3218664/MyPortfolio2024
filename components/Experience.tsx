@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 
 import { workExperience } from "@/data";
@@ -5,12 +6,15 @@ import { Button } from "./ui/MovingBorders";
 
 const Experience = () => {
   return (
-    <div className="py-20 w-full">
-      <h1 className="heading">
-        My <span className="text-purple">work experience</span>
-      </h1>
+    <div className="py-10 w-full">
+      <h5 className="heading">
+        Hire Me For Your <span className="text-purple">Web Development </span>{" "}
+        Needs
+      </h5>
+<br />
+      <div className="h-[1px] w-full bg-gradient-to-r from-transparent via-violet-500 to-transparent mb-6" />
 
-      <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
+      <div className="w-full mt-8 grid lg:grid-cols-4 grid-cols-1 gap-10">
         {workExperience.map((card) => (
           <Button
             key={card.id}
